@@ -18,5 +18,8 @@ This project demonstrates my ability to:
 - Create ER diagrams and schema structures
 - Document technical work in a structured academic format
 
+## File Included
+- **Information-System-Database-Project.docx** — complete project report  
+
 ## Author
 Abhey – BSc Computing Student, University of West London
