@@ -19,7 +19,8 @@ This project demonstrates my ability to:
 - Document technical work in a structured academic format
 
 ## File Included
-- **Information-System-Database-Project.docx** — complete project report  
+- **INFORMATION SYSTEMS AND DATABASES.pdf** - complete project report as pdf 
+- **Information-System-Database-Project.docx** — complete project report  as docx
 
 ## Author
 Abhey – BSc Computing Student, University of West London
