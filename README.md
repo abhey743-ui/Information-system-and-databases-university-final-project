@@ -1,4 +1,4 @@
-# Information-system-and-databases-university-final-project
+
 # Information System & Database Design Project
 
 This repository contains my academic project for the Information Systems and Database module at the University of West London.
